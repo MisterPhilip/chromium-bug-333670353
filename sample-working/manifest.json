@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Bug 333670353 - Working",
+  "version": "1.0.0",
+  "description": "Sample extension for Chromium bug #333670353 - Working variant.",
+  "icons": {
+    "16": "assets/16.png",
+    "48": "assets/48.png",
+    "128": "assets/128.png"
+  },
+  "devtools_page": "devtools.html",
+  "homepage_url": "https://github.com/MisterPhilip/chromium-bug-333670353",
+  "short_name": "333670353 Working",
+  "minimum_chrome_version": "102"
+}
