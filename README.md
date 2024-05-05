@@ -8,7 +8,7 @@ https://issues.chromium.org/issues/333670353
 
 ## Load unpacked extensions
 Load unpacked extensions from both `/sample-not-working` and `/sample-working`. 
-![Loaded extensions](https://github.com/MisterPhilip/chromium-bug-333670353/blob/main/extension-list.png?raw=true)
+![Loaded extensions](https://github.com/MisterPhilip/chromium-bug-333670353/blob/main/assets/extension-list.png?raw=true)
 
 ## Open a new page and navigate to a working web page
 You must not be on a URL that starts with `chrome://`, e.g., go to the [bug report page](https://issues.chromium.org/issues/333670353).
@@ -19,4 +19,4 @@ If you see both `Bug 333670353 - Without Service Worker` annd `Bug 333670353 - W
 
 
 If you have successfull replicated the issue, you will only see one tab at the top `Bug 333670353 - Without Service Worker`.
-![Loaded extensions](https://github.com/MisterPhilip/chromium-bug-333670353/blob/main/devtools.png?raw=true)
+![Loaded extensions](https://github.com/MisterPhilip/chromium-bug-333670353/blob/main/assets/devtools.png?raw=true)
